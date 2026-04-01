@@ -1,7 +1,7 @@
 
 <!-- Project Logo -->
 <div align="center">
-  <a href="https://github.com/Hazyasir3/ai_agent">
+  <a href="https://github.com/yasirirfan-ai/self_evolving_agent">
     <img src="./assets/EAXLoGo.svg" alt="Self-Evolving Workflow Agent" width="50%">
   </a>
 </div>
@@ -12,11 +12,11 @@
 
 <div align="center">
 
-[![Author](https://img.shields.io/badge/Author-Hazyasir3-blue.svg)](https://github.com/Hazyasir3)
+[![Author](https://img.shields.io/badge/Author-Yasir-blue.svg)](https://github.com/yasirirfan-ai)
 [![Docs](https://img.shields.io/badge/-Documentation-0A66C2?logo=readthedocs&logoColor=white&color=7289DA&labelColor=grey)](#)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Hazyasir3/ai_agent?style=social)](https://github.com/Hazyasir3/ai_agent/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Hazyasir3/ai_agent?style=social)](https://github.com/Hazyasir3/ai_agent/fork)
+[![GitHub stars](https://img.shields.io/github/stars/yasirirfan-ai/self_evolving_agent?style=social)](https://github.com/yasirirfan-ai/self_evolving_agent/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yasirirfan-ai/self_evolving_agent?style=social)](https://github.com/yasirirfan-ai/self_evolving_agent/fork)
 
 </div>
 
@@ -55,8 +55,8 @@
 Install dependencies locally:
 
 ```bash
-git clone https://github.com/Hazyasir3/ai_agent.git
-cd ai_agent/self_evolving_workflow_agent
+git clone https://github.com/yasirirfan-ai/self_evolving_agent.git
+cd self_evolving_agent
 pip install -r requirements.txt
 ````
 
@@ -247,4 +247,4 @@ Please follow repository contribution guidelines.
 
 This project is licensed under the **MIT License**.
 
-Maintained and adapted for the **ai_agent** repository by **Hazyasir3**
+Maintained and adapted for this repository by **Yasir**
